@@ -76,6 +76,7 @@ class Student:
     #     self.id = 10     # Instance Variable
     #     self.name = "sdcscs"        # Instance Variable
     #     self.marks = 12121  # Instance Variable
+    
     def __init__(self, id, name, marks):
         self.id = id     # Instance Variable
         self.name = name        # Instance Variable
